@@ -229,7 +229,7 @@ MASTER KUMITE
 
 ## Angles
 
-### Angle - Front Leg Round Kick to the Body
+### ( Ai  Hami ) Angle - Front Leg Round Kick to the Body (15.23 sec)
 
 - Angle - Front Leg Round Kick to the Body
 	 - Fake to the open side by stepping with your front foot
@@ -239,11 +239,11 @@ MASTER KUMITE
 	 - Προσποιήσου στην ανοιχτή πλευρά με βήματισμό με το μπροστινό πόδι
 	 - Ακολούθησε με Mawashi Geri στο σώμα με το μπροστινό πόδι
 
-### Angle Two Times - Rear Leg Round Kick to the Body
+### ( Yaku Hami ) Angle Two Times - Rear Leg Round Kick to the Body (16.39 sec)
 
 - Angle Two Times - Rear Leg Round Kick to the Body
 	 - Fake to the open side by stepping with the rear foot 45 degrees
-	 - step with the front foot towards the opponent's backside
+	 - Step with the front foot towards the opponent's backside
 	 - Rear leg round kick to the body
 
 - Μετακίνηση σε γωνία δύο φορές - ( Πίσω πόδι ) Ura Mawashi Geri στο σώμα
@@ -252,7 +252,7 @@ MASTER KUMITE
 	 - Ura Mawashi Geri στο σώμα με το πίσω πόδι
 
 
-### Angle Two Times - Front Leg Round Kick to the Body
+### ( Ai Hami ) Angle Two Times - Front Leg Round Kick to the Body ( 17.16 sec )
 
 - Angle Two Times - Front Leg Round Kick to the Body
 	 - Fake to the open side by stepping with your front foot
@@ -265,7 +265,7 @@ MASTER KUMITE
 	 - ( Μπροστά πόδι ) Mawashi Geri στο κεφάλι
 
 
-### ( Ai Hami ) Angle Two Times - Front Leg Hook Kick to the Head
+### ( Ai Hami ) Angle Two Times - Front Leg Hook Kick to the Head ( 17.45 sec )
 
 - ( Ai Hami ) Angle Two Times - Front Leg Hook Kick to the Head
 	 - Fake to opponent's backside by stepping with your rear foot
@@ -278,7 +278,7 @@ MASTER KUMITE
 	 - Mawashi Geri στο κεφάλι με το μπροστά πόδι
 
 
-### ( AI Hami ) Angle Two Times - Rear Leg Hook Kick to the Head
+### ( AI Hami ) Angle Two Times - Rear Leg Hook Kick to the Head ( 18.20 sec )
 
 - ( AI Hami ) Angle Two Times - Rear Leg Hook Kick to the Head
 	 - Fake to opponent's backside by stepping with your rear foot
@@ -288,9 +288,9 @@ MASTER KUMITE
 - ( AI Hami ) Μετακίνηση σε γωνία δύο φορές - ( Πίσω πόδι ) Ura Mawashi Geri στο κεφάλι
 	 - Προσποιήσου προς την πίσω πλευρά του αντιπάλου με το πίσω πόδι
 	 - Προσποιήσου στην ανοιχτή πλευρά με βήματισμό με το μπροστινό πόδι
-	 - Mawashi Geri στο κεφάλι με το πίσω πόδι
+	 - Ura Mawashi Geri στο κεφάλι με το πίσω πόδι
 
-### ( AI Hami ) Angle Two Times - Rear Hand Blitz
+### ( AI Hami ) Angle Two Times - Rear Hand Blitz ( 19.12 sec )
 
 - ( AI Hami ) Angle Two Times - Rear Hand Blitz
 	 - Fake to open side by stepping with your front foot
@@ -305,7 +305,7 @@ MASTER KUMITE
 
 ## Hand Manipulation
 
-### ( Yaku Hami ) Trap Opponent's Front Hand and Reverse Punch
+### ( Yaku Hami ) Trap Opponent's Front Hand and Reverse Punch ( 19. 55 sec)
 
 - ( Yaku Hami ) Trap Opponent's Front Hand and Reverse Punch
 	 - Front hand hooks opponent's lead hand
@@ -319,7 +319,7 @@ MASTER KUMITE
 	 - Gyaku-zuki καθώς κινείσαι προς την πίσω πλευρά του αντιπάλου
 	 - Ο αντίπαλος πρέπει να στραφεί προς την γροθιά καθώς κινείσαι σε γωνία 45 μοιρών
 
-### ( Ai hami ) Trap Opponent's Front Hand - Rear Hand BLitz
+### ( Ai hami ) Trap Opponent's Front Hand - Rear Hand BLitz ( 20.38 sec )
 
 - ( Ai hami ) Trap Opponent's Front Hand - Rear Hand BLitz
 	 - Front hand traps opponent's front hand
@@ -335,7 +335,7 @@ MASTER KUMITE
 	 - Αιφνιδιαστική επίθεση με το πίσω χέρι
 	 - Μετακινήσου προς την πίσω πλευρά του αντιπάλου
 
-### Check Opponent's Front Hand and Kick ( slap hand one side kick same side )
+### Check Opponent's Front Hand and Kick ( slap hand one side kick same side ) ( 21.35 sec )
 
 - Check Opponent's Front Hand and Kick ( slap hand one side kick same side )
 	 - Slap opponent's front hand to one side and kick on the same side
@@ -345,7 +345,7 @@ MASTER KUMITE
 	 - Λακτίσε στην ίδια πλευρά που σπρώχνεις το χέρι του αντιπάλου
 	 - Συγχρόνισε το λάκτισμα ώστε να προσγειωθεί στον αντίπαλο την στιγμή που ο αντίπαλος μετακινεί το χέρι του προς την αντίθετη μεριά
 
-## Changing the Direction of the Kick
+## Changing the Direction of the Kick ( 22.38 sec )
 
 - Change the direction and type of kick in midair
 
@@ -353,7 +353,7 @@ MASTER KUMITE
 
 ## Reaction training 
 
-### Striking the Target
+### Striking the Target ( 22.52 sec )
 
 - Striking the Target
 	 - When your knee is in the air, partner flashes the glove for a round or a hook kick
@@ -364,7 +364,7 @@ MASTER KUMITE
 	 - Χρησιμοποιήσε το κατάλληλο λάκτισμα με το μπροστινό πόδι
 
 
-### Striking the opening
+### Striking the opening ( 23.19 sec )
 
 - Striking the opening
 	 - Partner moves their front hand to block when you lift your knee
